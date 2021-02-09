@@ -10,21 +10,21 @@
 
 ## 設問１
 a, b に関する解答群
-ア: DataLen
-イ: DataLen + 1
-ウ: DataLen + textLen
-エ: DataLen + textLen + 1
-オ: textLen
-カ: textLen + 1
+ア: DataLen  
+イ: DataLen + 1  
+ウ: DataLen + textLen  
+エ: DataLen + textLen + 1  
+オ: textLen  
+カ: textLen + 1  
 
-cに関する解答群
-ア: MemoCnt - pos
-イ: pos - 1
-ウ: pos
-エ: pos + 1
+cに関する解答群  
+ア: MemoCnt - pos  
+イ: pos - 1  
+ウ: pos  
+エ: pos + 1  
 
-dに関する解答群
-ア: fromPos, i >= toPos - 1, -1
-イ: fromPos, i >= toPos + 1. -1
-ウ: toPos, i <= fromPos - 1, 1
-エ: toPos, i <= fromPos + 1, 1
+dに関する解答群  
+ア: fromPos, i >= toPos - 1, -1  
+イ: fromPos, i >= toPos + 1. -1  
+ウ: toPos, i <= fromPos - 1, 1  
+エ: toPos, i <= fromPos + 1, 1  
