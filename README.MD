@@ -6,9 +6,11 @@
 を行う部分のプログラムである。
 図１は、簡易メモ帳に４件のメモ "Aoki", "Imai", "Uno", 及び "Endo" を登録した。  
 
-[memo.go](memo.go)
+問題は [no1.go](no1.go) に記載。
+解答は [no1answer.go](no1answer.go)
 
-## 設問１
+
+## 設問１  
 a, b に関する解答群
 ア: DataLen  
 イ: DataLen + 1  
@@ -28,3 +30,11 @@ dに関する解答群
 イ: fromPos, i >= toPos + 1. -1  
 ウ: toPos, i <= fromPos - 1, 1  
 エ: toPos, i <= fromPos + 1, 1  
+
+### e10ulenなりの答え。  
+オカアイ  
+### 参考書上の答え。  
+アウエイ  
+
+## 解法解説  
+この欄は後日説明
